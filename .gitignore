@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jetbrains
+.idea/*
+
+# Scheduler Timestamp file
+last-ran.txt
